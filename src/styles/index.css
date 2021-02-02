@@ -365,6 +365,7 @@ textarea {
   font: inherit;
   /* 2 */
 }
+/*
 @font-face {
   font-family: "Catamaran";
   src: url(../../assets/fonts/Catamaran-Light.ttf);
@@ -385,6 +386,7 @@ textarea {
   src: url(../../assets/fonts/Catamaran-Bold.ttf);
   font-weight: 700;
 }
+*/
 /* Breakpoints */
 * {
   /*font-family: "Catamaran", sans-serif;*/
