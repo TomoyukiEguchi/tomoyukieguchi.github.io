@@ -387,7 +387,7 @@ textarea {
 }
 /* Breakpoints */
 * {
-  font-family: "Catamaran", sans-serif;
+  /*font-family: "Catamaran", sans-serif;*/
   color: white;
 }
 body {
@@ -634,7 +634,7 @@ nav {
 }
 @media all and (min-width: 768px) {
   .social-links {
-    margin-top: 13vw;
+    margin: 13vw 0 13vw;
   }
 }
 .social-links a {
